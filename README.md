@@ -2,14 +2,14 @@
 
 This is a simple Streamlit web app where you can see and compare the closing prices and volumes of different companies' stocks. The data for this project is fetched from Yahoo Finance using the yfinance library.
 
-![SS]()
+![](https://github.com/gryhkn/VisualizedStockPrice/blob/master/ss/stock%20data.png?raw=true)
 
 ## Features
 - Choose a company and view its closing price, volume, candlestick chart, and moving average.
 - Compare the closing prices of multiple companies.
 - Choose the period you want to view data from with a slider.
 
-![]()
+![](https://github.com/gryhkn/VisualizedStockPrice/blob/master/ss/compare.png?raw=true)
 
 ## Installation
 
