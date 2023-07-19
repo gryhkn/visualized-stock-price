@@ -1,0 +1,7 @@
+yfinance==0.2.24
+pandas==2.0.3
+pip==23.2
+plotly==5.15.0
+
+
+
